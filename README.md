@@ -1,1 +1,1 @@
-# bn
+# course-Bayesian Network
